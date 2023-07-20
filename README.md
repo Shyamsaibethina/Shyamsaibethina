@@ -7,4 +7,4 @@ Here are some things I've worked on:
 * [PONG Agent](https://github.com/Shyamsaibethina/DLG-AI-2021) - CNN model that uses pixels from the game PONG that trains the opponent paddle to be nearly unbeatable
 * [Uncover](https://github.com/Shyamsaibethina/Uncover) - Webapp that can detect politeness and microaggressions between two people from a recording or mp3 file
 * [Deep-Learning-Playground](https://github.com/DSGT-DLP/Deep-Learning-Playground) - Website that allows users to explore AI/ML models through drag-and-drop interface
-* [MQTT Broker from Scartch](https://github.com/Shyamsaibethina/mqttbroker) - A service that filters packets by topic from MQTT clients and sends it to the correct server, written in C
+* [MQTT Broker from Scartch](https://github.com/Shyamsaibethina/mqttbroker) - Filters packets by topic from MQTT clients and sends it to the correct server, written in C
